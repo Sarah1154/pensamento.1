@@ -5,4 +5,12 @@ body {
 
 header{
   border-bottom: solid 2px rgb(42,122,228);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(234,211,241,1);
 }
+
+section{
+  background: rgb(127,98,181,1);
+}
+
